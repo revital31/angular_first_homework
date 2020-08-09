@@ -1,0 +1,17 @@
+*
+{
+  background-color: greenyellow;
+  margin:10px;
+  list-style:circle;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+
+}
+
+.button
+{
+  font-size: 30px;
+  color: blue;
+  background-color: aqua;
+}
